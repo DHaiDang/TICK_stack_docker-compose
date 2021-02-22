@@ -7,7 +7,7 @@
 
 <div align="center">
 
-[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+[![Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com/DHaiDang/TICK_stack_docker-compose)
 [![Platform](https://img.shields.io/badge/platform-TICKstack-orange.svg)](https://www.influxdata.com/blog/introduction-to-influxdatas-influxdb-and-tick-stack/)
 [![GitHub Issues](https://img.shields.io/github/issues/DHaiDang/TICK_stack_docker-compose.svg)](https://github.com/DHaiDang/TICK_stack_docker-compose/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/DHaiDang/TICK_stack_docker-compose.svg)](https://github.com/DHaiDang/TICK_stack_docker-compose/pulls)
